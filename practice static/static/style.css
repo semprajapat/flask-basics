@@ -1,0 +1,433 @@
+ body {
+ 	background-image: url("images/kp.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.main{
+	background-color: rgba(0,0,0,0.4);
+ 	margin: auto;
+ 	margin-top: 50px;
+    width: 85%;
+    color: white;
+    margin-left: auto;
+    padding-bottom: 1250px;
+    
+ }
+
+.head{
+	background-color: rgba(0,0,0,0.4);
+ 	
+ 	margin-top: 50px;
+    width: 100%;
+    color: white;
+    padding-bottom: 200px;
+    opacity: 0.8;
+  transition: 1.2s;
+   
+}
+.head:hover{opacity: 2;}
+.middel{
+	background-color: lightgreen;
+	padding-left: 50px;
+ 	float: right;
+ 	margin-top: 40px;
+    width: 55%;
+    color: white;
+   font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+.middel1{
+	
+ 	background-color: orange;
+ 	padding-left:90px;
+ 	float: left;
+ 	margin-top: 40px;
+    width: 24%;
+    color: white;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+   
+}
+.middel2{
+	
+ 	background-color: cyan;
+ 	float: right;
+ 	padding-left: 50px;
+ 	margin-top: 40px;
+    width: 55%;
+    color: white;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+
+.middel3{
+	background-color:red;
+ 	padding-left:90px;
+ 	margin-top: 40px;
+ 	float: left;
+ 	height: 70px;
+    width: 24%;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+.middel4{
+	
+ 	background-color:orange;
+ 	float: right;
+ 	padding-left: 50px;
+ 	margin-top: 40px;
+    width: 55%;
+    color: white;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+.middel5{
+	background-color:lightgreen;
+ 	padding-left:90px;
+ 	margin-top: 40px;
+ 	float: left;
+ 	height: 70px;
+    width: 24%;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+.middel6{
+	
+ 	background-color:red;
+ 	float: right;
+ 	padding-left: 50px;
+ 	margin-top: 40px;
+    width: 55%;
+    color: white;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	opacity: 0.6;
+  transition: 0.3s;
+}
+.middel:hover {opacity: 1}
+.middel1:hover {opacity: 1}
+.middel2:hover {opacity: 1}
+.middel3:hover {opacity: 1}
+.middel4:hover {opacity: 1}
+.middel5:hover {opacity: 1}
+.middel6:hover {opacity: 1}
+img{
+	width: 150px;
+	height: 140px;
+	margin-left: 90px;
+	margin-top: 30px;
+	border-radius: 50%;
+    cursor: pointer;
+}
+
+#k1{
+	width: auto;
+	float: right;
+	padding-right: 60px;
+	margin-top: 70px;
+	font-size: 2.3em;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	line-height: .8em;
+   
+}
+#k2{
+	float: left;
+	padding-left:20px;
+	margin-top: 25px;
+	font-size: 1.2em;
+	 color: lightgreen;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k3{
+	float: left;
+	padding-left:20px;
+	margin-top: 0px;
+	font-size: 1.2em;
+	color: 	fuchsia;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k4{
+	float: left;
+	margin-top: 65px;
+	margin-left: -143px;
+	color: 	orange;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k5{
+	float: left;
+	padding-left:20px;
+	margin-top: 120px;
+	margin-left: -194px;
+	font-size: 1.2em;
+	 color: lightgreen;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k6{
+	font-size: 1.1em;
+	margin-top: 30px;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	margin-left: -15px;
+}
+#k7{
+	float: left;
+	padding-left:20px;
+	margin-top: 30px;
+	font-size: 1.2em;
+	color: 	fuchsia;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k8{
+	float: left;
+	margin-top: 85px;
+	margin-left: -153px;
+	color: 	orange;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k9{
+	float: left;
+	padding-left:20px;
+	margin-top: 130px;
+	margin-left: -174px;
+	font-size: 1.2em;
+	 color: lightgreen;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k10{
+	float: left;
+	padding-left:20px;
+	margin-top: 190px;
+	margin-left: -194px;
+	font-size: 1.2em;
+	 color: lightgreen;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+#k11{
+	font-size: 1.1em;
+	margin-top: 20px;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	  margin-left: -15px;
+}
+.Contactdown{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left:90px;
+ 	float: left;
+ 	
+ 	height: 300px;
+    width: 24%;
+   
+}
+.careerdown{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left: 50px;
+ 	float: right;
+ 	
+ 	height: 150px;
+    width: 55%;
+    color: white;
+}
+.education{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left: 50px;
+ 	float: right;
+
+ 	height: 210px;
+    width: 55%;
+    color: white;
+}
+
+.aboutdown{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left:90px;
+ 	float: left;
+ 	
+ 	height: 300px;
+    width: 24%;
+}
+.skilldown{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left: 50px;
+ 	float: right;
+ 	
+ 	height: 250px;
+    width: 55%;
+    color: white;
+}
+.hobbies{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left:90px;
+ 	float: left;
+ 	padding-top: 20px;
+ 	height: 260px;
+    width: 24%;
+    font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+}
+.training{
+	background-color:rgba(0,0,0,0.7);
+ 	padding-left: 50px;
+ 	float: right;
+ 	padding-top: 15px;
+ 	height: 160px;
+    width: 55%;
+    color: white;
+    font-weight: .8em;
+  
+}
+
+table{
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	margin-top: 20px;
+	margin-left: -5px;
+    
+}
+
+
+/* ------------------------------------------------------------------- 
+ * ## skillbars - (_skillbars.scss)
+ * ------------------------------------------------------------------- */
+
+.skill-bars {
+    list-style: none;
+    margin: 20rem;
+    margin-top: 53px;
+    margin-left:13px;
+}
+
+.skill-bars li {
+    height: .4rem;
+    background: white;
+    width: 180%;
+    margin-bottom: 2.9rem;
+    padding: 0;
+    position: relative;
+}
+
+.skill-bars li strong {
+    position: absolute;
+    left: 0;
+    top: -2rem;
+    font-family: "montserrat-extrabold", sans-serif;
+    color: #0D0A0B;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    font-size: 1.0rem;
+    line-height:1.4rem;
+}
+
+.skill-bars li .progress {
+    background: #000000;
+    background-image: linear-gradient(to right,cyan, gray);
+    position: relative;
+    height: 100%;
+}
+
+.skill-bars li .progress span {
+    position: absolute;
+    right: 0;
+    top: -2.6rem;
+    display: block;
+    font-family: "montserrat-regular", sans-serif;
+    color: #FFFFFF;
+    font-size: 1.1rem;
+    line-height: 1;
+    background: #000000;
+    padding: .6rem .6rem;
+    border-radius: 3px;
+}
+
+.skill-bars li .percent5 {
+    width: 5%;
+}
+
+.skill-bars li .percent10 {
+    width: 10%;
+}
+
+.skill-bars li .percent15 {
+    width: 15%;
+}
+
+.skill-bars li .percent20 {
+    width: 20%;
+}
+
+.skill-bars li .percent25 {
+    width: 25%;
+}
+
+.skill-bars li .percent30 {
+    width: 30%;
+}
+
+.skill-bars li .percent35 {
+    width: 35%;
+}
+
+.skill-bars li .percent40 {
+    width: 40%;
+}
+
+.skill-bars li .percent45 {
+    width: 45%;
+}
+
+.skill-bars li .percent50 {
+    width: 50%;
+}
+
+.skill-bars li .percent55 {
+    width: 55%;
+}
+
+.skill-bars li .percent60 {
+    width: 60%;
+}
+
+.skill-bars li .percent65 {
+    width: 65%;
+}
+
+.skill-bars li .percent70 {
+    width: 70%;
+}
+
+.skill-bars li .percent75 {
+    width: 75%;
+}
+
+.skill-bars li .percent80 {
+    width: 80%;
+}
+
+.skill-bars li .percent85 {
+    width: 85%;
+}
+
+.skill-bars li .percent90 {
+    width: 90%;
+}
+
+.skill-bars li .percent95 {
+    width: 95%;
+}
+
+.skill-bars li .percent100 {
+    width: 100%;
+}

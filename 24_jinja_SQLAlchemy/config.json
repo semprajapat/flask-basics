@@ -1,0 +1,7 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local" : "mysql+pymysql://root:Sem123@localhost:3306/test"
+    }
+}

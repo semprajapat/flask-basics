@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script type="text/javascript"
+            src = "{{ url_for('static',filename = 'kp.js') }}" ></script>
+            <script type="text/javascript"
+            src = "{{ url_for('static',filename = 'login.js') }}" ></script>
+    </head>
+    <body>
+        <input type="button" onclick="sayhello()" value="say Hello">
+        <form>
+            name:
+            <input type="text" name="name" id="name">
+            <input type="submit" onclick="log()">
+        </form>
+    </body>
+</html>
